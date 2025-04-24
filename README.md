@@ -1,5 +1,8 @@
 # NES-Nessus file to pdf converter
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=yellow)
+
+
 # It's just a simple .nessus to pdf and html converter the purpose of this script is to convert scan.nessus file obtained from the nesssus essential scan to PDF.
 
 # ### System Dependencies
