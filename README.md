@@ -24,5 +24,13 @@ OR
 
 ![nes-jpg](https://github.com/as-w-in/nes/blob/main/assets/screenshots/nes-jpg.png?raw=true)
 
+<h3>The image show the converted html file </h3>
+
+![nes-jpg3](https://github.com/as-w-in/nes/blob/main/assets/screenshots/nes-jpg3.png?raw=true)
+
+<h3>Now we can also see the pdf file.</h3>
+
+![nes-jpg2](?raw=true)
+
 <h2> Okay Now you're ready to go!!</h2>
 
