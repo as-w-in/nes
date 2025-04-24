@@ -19,5 +19,10 @@ OR
 
 <p> sudo dpkg -i wkhtmltox_0.12.6-1.buster_amd64.deb </p>
 
+<h3> Here is a slight demonstration to working of the tool.</h3>
+
+
+![nes-jpg](https://github.com/as-w-in/nes/blob/main/assets/screenshots/nes-jpg.png?raw=true)
+
 <h2> Okay Now you're ready to go!!</h2>
 
