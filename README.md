@@ -1,7 +1,6 @@
 # NES-Nessus file to pdf converter
 
-# It's just a simple .nessus to pdf and html converter the purpose of this script is to convert 
-# the .nessus scan file obtained from the nesssus essential scan to PDF.
+# It's just a simple .nessus to pdf and html converter the purpose of this script is to convert scan.nessus file obtained from the nesssus essential scan to PDF.
 
 # ### System Dependencies
 
