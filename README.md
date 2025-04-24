@@ -30,7 +30,7 @@ OR
 
 <h3>Now we can also see the pdf file.</h3>
 
-![nes-jpg2](?raw=true)
+![nes-jpg2](https://github.com/as-w-in/nes/blob/main/assets/screenshots/nes-jpg2.png?raw=true)
 
 <h2> Okay Now you're ready to go!!</h2>
 
