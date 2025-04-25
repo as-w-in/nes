@@ -20,7 +20,7 @@ OR
  wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.buster_amd64.deb
 ```
 ``` bash
-sudo dpkg -i wkhtmltox_0.12.6-1.buster_amd64.deb </p>
+sudo dpkg -i wkhtmltox_0.12.6-1.buster_amd64.deb 
 ```
 <h3> Here is a slight demonstration to working of the tool.</h3>
 
