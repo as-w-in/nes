@@ -11,15 +11,19 @@
 <p> You must install 'wkhtmltopdf' seperately.</p>
 
 <h3> ### Debian/Ubuntu/kali </h3>
-
-<p> sudo apt install wkhtmltopdf</p>
-
+bash
+```
+sudo apt install wkhtmltopdf
+```
 OR
-
-<p> wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.buster_amd64.deb </p>
-
-<p> sudo dpkg -i wkhtmltox_0.12.6-1.buster_amd64.deb </p>
-
+bash
+```
+ wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.buster_amd64.deb
+```
+bash
+```
+sudo dpkg -i wkhtmltox_0.12.6-1.buster_amd64.deb </p>
+```
 <h3> Here is a slight demonstration to working of the tool.</h3>
 
 
