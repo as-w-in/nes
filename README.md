@@ -1,7 +1,8 @@
 <h1> NES-Nessus file to pdf converter </h1>
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=yellow)
-
+![Python](https://img.shields.io/badge/Python-3.12.6-blue?logo=python&logoColor=yellow)
+![GPL](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green.svg)
 
 <p> It's just a simple .nessus to pdf and html converter the purpose of this script is to convert scan.nessus file obtained from the nesssus essential scan to PDF.</p>
 
